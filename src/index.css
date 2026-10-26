@@ -1,0 +1,4 @@
+:root { font-family: 'DM Sans', sans-serif; color: #182230; background: #f6f7fb; }
+* { box-sizing: border-box; }
+html { min-width: 320px; }
+body { margin: 0; min-width: 320px; min-height: 100vh; }
