@@ -4,6 +4,8 @@ A responsive React app for organizing a job search. Add applications, find them 
 
 **Live demo:** https://job-tracker-dmax84ved-my-portfolio-5670.vercel.app
 
+**Source code:** https://github.com/fardeemkhan0614/job-tracker
+
 ## Features
 
 - Add a job title, company, application date, and current status
@@ -13,6 +15,7 @@ A responsive React app for organizing a job search. Add applications, find them 
 - Delete applications
 - Summary cards for applications, interviews, offers, and responses
 - Responsive layout for desktop and mobile
+- Direct GitHub source-code link in the app header
 - Save data locally in the current browser
 
 ## Built with
