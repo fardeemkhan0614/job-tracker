@@ -2,6 +2,8 @@
 
 A responsive React app for organizing a job search. Add applications, find them with search and status filters, update progress, and remove old entries. Applications are saved in the browser using localStorage.
 
+**Live demo:** https://job-tracker-dmax84ved-my-portfolio-5670.vercel.app
+
 ## Features
 
 - Add a job title, company, application date, and current status
@@ -43,3 +45,4 @@ The production files are created in the `dist` folder. The project can be deploy
 ## Data note
 
 Applications are stored in the browser on the current device. They are not synced to an account or shared across devices.
+
