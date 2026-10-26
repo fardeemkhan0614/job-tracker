@@ -6,6 +6,8 @@ A responsive React app for organizing a job search. Add applications, find them 
 
 **Source code:** https://github.com/fardeemkhan0614/job-tracker
 
+**Clone:** `git clone https://github.com/fardeemkhan0614/job-tracker.git`
+
 ## Features
 
 - Add a job title, company, application date, and current status
