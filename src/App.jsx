@@ -60,7 +60,12 @@ function App() {
     <main className="app-shell">
       <header className="topbar">
         <a className="brand" href="#top" aria-label="Trackly home"><span className="brand-mark">T</span> trackly</a>
-        <span className="topbar-note">Your job search, organized</span>
+        <div className="topbar-actions">
+          <span className="topbar-note">Your job search, organized</span>
+          <a className="github-link" href="https://github.com/fardeemkhan0614/job-tracker" target="_blank" rel="noreferrer">
+            View GitHub code <span aria-hidden="true">↗</span>
+          </a>
+        </div>
       </header>
 
       <div className="content" id="top">
