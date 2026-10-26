@@ -2,7 +2,7 @@
 
 A responsive React app for organizing a job search. Add applications, find them with search and status filters, update progress, and remove old entries. Applications are saved in the browser using localStorage.
 
-**Live demo:** https://job-tracker-dmax84ved-my-portfolio-5670.vercel.app
+**Live demo:** https://job-tracker-umber-five.vercel.app
 
 **Source code:** https://github.com/fardeemkhan0614/job-tracker
 
